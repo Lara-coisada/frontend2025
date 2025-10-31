@@ -10,7 +10,7 @@ body{
 }
 
 .menu{
-    background-color: darkblue;
+    background-color: darkkhaki;
     display: flex;
     justify-content: center;
 }
@@ -24,7 +24,7 @@ body{
 }
 
 .menu a:hover{
-    background-color:  #3722bb;
+    background-color:  rgb(210, 208, 177);
 }
 
 .grid{
@@ -34,6 +34,8 @@ body{
 }
 
 .card{
+    text-align: center;
+    color:white;
     background: #fff;
     border-radius:  8px;
     padding: 16px;
@@ -54,7 +56,8 @@ ol li {
 
 .titulo-principal{
     text-align: center;
-    color: darkblue;
+    color: darkkhaki;
     padding: 30px 0;
     font-size: 50px;
 }
+
